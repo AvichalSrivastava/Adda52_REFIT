@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/transformers/Projects/Adda52_REFIT/Adda52_REFIT/Adda52_REFIT.csproj": {}
+  },
+  "projects": {
+    "/Users/transformers/Projects/Adda52_REFIT/Adda52_REFIT/Adda52_REFIT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/transformers/Projects/Adda52_REFIT/Adda52_REFIT/Adda52_REFIT.csproj",
+        "projectName": "Adda52_REFIT",
+        "projectPath": "/Users/transformers/Projects/Adda52_REFIT/Adda52_REFIT/Adda52_REFIT.csproj",
+        "packagesPath": "/Users/transformers/.nuget/packages/",
+        "outputPath": "/Users/transformers/Projects/Adda52_REFIT/Adda52_REFIT/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/transformers/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[5.1.67, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

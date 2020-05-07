@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C3C17968-B1FA-4E69-B640-CCAB57BFD23A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Adda52__REFIT AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ZY2245JJRX" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adda52_REFIT/MainActivity.cs">
+    <Files>
+      <File FileName="Adda52_REFIT/Model/ApiResponse.cs" Line="24" Column="1" IsPinned="True" />
+      <File FileName="Adda52_REFIT/MainActivity.cs" Line="55" Column="14" />
+      <File FileName="Adda52_REFIT/Model/User.cs" Line="14" Column="1" />
+      <File FileName="Adda52_REFIT/Interface/IGitHubApi.cs" Line="13" Column="6" />
+      <File FileName="Adda52_REFIT/Resources/layout/Main.xml" Line="13" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adda52_REFIT" expanded="True">
+            <Node name="Adda52_REFIT" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Users"
+        android:id="@+id/btn_list_users" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:background="#000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ListView
+            android:layout_margin="@dimen/abc_button_inset_vertical_material"
+        android:padding="@dimen/abc_dialog_padding_material"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listview_users"
+        android:background="#ffffff" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
